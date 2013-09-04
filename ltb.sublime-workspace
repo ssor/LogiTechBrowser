@@ -1,0 +1,1058 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"files",
+				"file_name_save"
+			],
+			[
+				"上传",
+				"上传失败！请检查后重试"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"time",
+				"time_upload"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"ge",
+				"get	Get Elements"
+			],
+			[
+				"get",
+				"getForm"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Sta",
+				"StateReturn"
+			],
+			[
+				"St",
+				"State"
+			],
+			[
+				"te2",
+				"test2"
+			],
+			[
+				"La",
+				"LastTemperature"
+			],
+			[
+				"Lat",
+				"LastTemperature"
+			],
+			[
+				"ini",
+				"infinity"
+			],
+			[
+				"la",
+				"last_temperature"
+			],
+			[
+				"Ev",
+				"EventOfHuminity"
+			],
+			[
+				"H",
+				"Huminity"
+			],
+			[
+				"tem",
+				"temperature"
+			],
+			[
+				"L",
+				"LastHuminity"
+			],
+			[
+				"las",
+				"last_huminity"
+			],
+			[
+				"li",
+				"list_to_integer"
+			],
+			[
+				"com",
+				"CommandSub"
+			],
+			[
+				"por",
+				"port_list"
+			],
+			[
+				"reg",
+				"reg_port_mng"
+			],
+			[
+				"tim",
+				"time_left"
+			],
+			[
+				"sta",
+				"start_time"
+			],
+			[
+				"Ta",
+				"Tag4"
+			],
+			[
+				"Li",
+				"List"
+			],
+			[
+				"Ne",
+				"NewTagInfo2"
+			],
+			[
+				"ta",
+				"tags_temp_ets"
+			],
+			[
+				"New",
+				"NewTagInfo"
+			],
+			[
+				"st",
+				"start_time"
+			],
+			[
+				"LEAT",
+				"DEFAULT_LEASE_TIME"
+			],
+			[
+				"Et",
+				"EtsTemp"
+			],
+			[
+				"pa",
+				"parse_command"
+			],
+			[
+				"bin",
+				"binary_to_list"
+			],
+			[
+				"B",
+				"Bin1"
+			],
+			[
+				"Bi",
+				"Bin1"
+			],
+			[
+				"B2",
+				"Bin2"
+			],
+			[
+				"Us",
+				"UserPort"
+			],
+			[
+				"S",
+				"Socket"
+			],
+			[
+				"udp",
+				"upd_port"
+			],
+			[
+				"US",
+				"UserList"
+			],
+			[
+				"U",
+				"UserPort"
+			],
+			[
+				"Ra",
+				"RawArgList"
+			],
+			[
+				"start",
+				"start_child"
+			],
+			[
+				"h",
+				"handle_cast"
+			],
+			[
+				"star",
+				"start_time"
+			],
+			[
+				"Tim",
+				"TimeLeft"
+			],
+			[
+				"v",
+				"Value"
+			],
+			[
+				"Statim",
+				"StartTime"
+			],
+			[
+				"ex",
+				"export"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Tpl/default/Index/index.html",
+			"settings":
+			{
+				"buffer_size": 4383,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/overview.html",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/tree.html",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/logiTechSoftwares.html",
+			"settings":
+			{
+				"buffer_size": 4739,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 862,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lib/Action/ManageAction.class.php",
+			"settings":
+			{
+				"buffer_size": 8663,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Manage/base_softwares_html.html",
+			"settings":
+			{
+				"buffer_size": 5240,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Manage/uploadSoftware.html",
+			"settings":
+			{
+				"buffer_size": 6561,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Manage/logiTechSoftwares.html",
+			"settings":
+			{
+				"buffer_size": 5234,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Manage/overview.html",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Public/miniui/themes/icons.css",
+			"settings":
+			{
+				"buffer_size": 2312,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Manage/tree.html",
+			"settings":
+			{
+				"buffer_size": 375,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Manage/index.html",
+			"settings":
+			{
+				"buffer_size": 4383,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lib/Action/IndexAction.class.php",
+			"settings":
+			{
+				"buffer_size": 4976,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/base_softwares_html.html",
+			"settings":
+			{
+				"buffer_size": 4745,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Conf/config.php",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 322.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/www/LogiTechBrowser/Tpl/default/Index/tree.html",
+		"/D/www/LogiTechBrowser/Tpl/default/Index/logiTechSoftwares.html",
+		"/D/www/LogiTechBrowser/Tpl/default/Index/success.html",
+		"/D/www/LogiTechBrowser/tree.txt",
+		"/D/www/LogiTechBrowser/Tpl/default/Index/software_list.html",
+		"/D/www/LogiTechBrowser/Conf/config.php",
+		"/D/www/LogiTechBrowser/Tpl/default/Index/tree.txt",
+		"/D/www/LogiTechBrowser/Tpl/default/index.html",
+		"/D/www/LogiTechBrowser/index.php",
+		"/D/www/classDef/index.php",
+		"/C/Users/Administrator/Desktop/简单标记示例.html",
+		"/C/Program Files/Sublime Text 2/sublime_text_cracked.exe",
+		"/D/programs/erlang/zigbee_event_generator/src/reg_generator.erl",
+		"/D/programs/erlang/zigbee_event_generator/src/zeg.sublime-project",
+		"/D/programs/erlang/rfid_event_generator/src/gen_event.erl",
+		"/F/Program Files (x86)/erl5.9.1/lib/stdlib-1.18.1/include/ms_transform.hrl",
+		"/D/programs/erlang/rfid_event_generator/src/parser.erl",
+		"/D/programs/erlang/rfid_event_generator/ebin/rfid_event_generator.app",
+		"/D/programs/erlang/udp_transfer/src/ut_store.erl",
+		"/D/programs/erlang/udp_transfer/src/udp_transfer.erl",
+		"/D/programs/erlang/udp_transfer/src/dc_client_mng.erl",
+		"/D/programs/erlang/udp_transfer/ebin/udp_transfer.app",
+		"/D/programs/erlang/data_collector/ebin/data_collector.app",
+		"/D/programs/erlang/data_middle_ware/src/dms_sup.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver_sup.erl",
+		"/D/programs/erlang/data_middle_ware/ebin/data_middleware.app",
+		"/D/programs/erlang/data_middle_ware/src/dms_store.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_app.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_event.erl",
+		"/D/programs/erlang/data_middle_ware/src/data_middleware.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_event_logger.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_event_sup.erl",
+		"/D/programs/erlang/simple_cache/src/sc_element_sup.erl",
+		"/D/programs/erlang/simple_cache/src/sc_element.erl",
+		"/D/programs/erlang/simple_cache/src/sc_app.erl",
+		"/D/programs/erlang/simple_cache/src/simple_cache.erl",
+		"/D/programs/erlang/simple_cache/src/sc_sup.erl",
+		"/D/programs/erlang/simple_cache/src/sc_store.erl",
+		"/D/programs/erlang/simple_cache/src/sc_event_logger.erl",
+		"/D/programs/erlang/simple_cache/src/sc_event.erl",
+		"/D/programs/erlang/tcp_rpc/src/tr_app.erl",
+		"/D/programs/erlang/tcp_rpc/src/tr_server.erl",
+		"/D/programs/erlang/tcp_rpc/src/tr_sup.erl",
+		"/D/programs/erlang/data_middle_ware/src/simple_cache.erl",
+		"/D/programs/erlang/data_middle_ware/src/sc_app.erl",
+		"/D/programs/erlang/gen_web_server/src/gws_server.erl",
+		"/D/programs/erlang/gen_web_server/src/gen_web_server.erl",
+		"/D/programs/erlang/gen_web_server/src/gws_connection_sup.erl",
+		"/D/programs/erlang/data_middle_ware/ebin/simple_cache.app",
+		"/D/programs/erlang/tcp_interface/src/ti_app.erl",
+		"/D/programs/erlang/tcp_interface/src/ti_sup.erl",
+		"/D/programs/erlang/tcp_interface/src/ti_server.erl",
+		"/D/programs/erlang/demos/custom_error_report.erl",
+		"/D/programs/erlang/demos/die_please.erl",
+		"/D/programs/erlang/demos/event_behaviour_template.erl",
+		"/D/programs/erlang/event_behaviour_template.erl",
+		"/D/programs/erlang/simple_cache/ebin/simple_cache.app",
+		"/D/programs/erlang/demos/tr_server.erl",
+		"/D/programs/erlang/simple_cache/src/gen_server_template.erl",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/programs/erlang/simple_cache/src/app_name_app.erl",
+		"/D/programs/erlang/tcp_rpc/ebin/tcp_rpc.app",
+		"/D/programs/erlang/tr_server.erl",
+		"/D/programs/erlang/app_name_sup.erl",
+		"/D/programs/erlang/app_name_app.erl",
+		"/D/programs/erlang/gen_server_template.erl"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fileName",
+			"checkWindows",
+			"fileName",
+			"download",
+			"file_name",
+			"$this->trace",
+			"remove",
+			";\n",
+			"filename",
+			"result",
+			"showTab",
+			"download",
+			"base",
+			"3342",
+			"chunked_hello_world",
+			"cowboy",
+			"ensure_started",
+			"reg_event_sensor",
+			"reg_event",
+			"format",
+			"reg_generator",
+			"reg_port_mng",
+			"reg_generator_sup",
+			"reg_port_mng",
+			"reg_generator",
+			"reg_generator_sup",
+			"reg_store",
+			"dc_event",
+			"Data",
+			"Packet",
+			"State",
+			"Ant5",
+			"Count5",
+			"Tag5",
+			"StartTime",
+			"Last",
+			"Ant5",
+			"Count5",
+			"Tag5",
+			"parse_command",
+			"tags_ets",
+			"binary_part",
+			"Bin1",
+			"parse",
+			"ut_transfer_sup",
+			"ut_client_mng",
+			"ut_transfer",
+			"ut_store",
+			"ut_client_mng",
+			"ut_transfer_sup",
+			"UserIP",
+			"dc_client_mng",
+			"dc_data_receiver",
+			"dc_data_receiver_sup",
+			"DataReceiverSup",
+			"dc_event",
+			"dms_event",
+			"dms_store",
+			"dms_data_receiver",
+			"dms_data_receiver_sup",
+			"handler",
+			"Handler",
+			"SERVER",
+			"dms_data_receiver_sup",
+			"sc_element_sup",
+			"),\n",
+			"sc_element",
+			"Element",
+			"Headers",
+			"_Body",
+			"handle_cast",
+			"lookup",
+			"create",
+			"sc_sup",
+			"tr_server"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Tpl/default/Index/index.html",
+					"settings":
+					{
+						"buffer_size": 4383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2554,
+								2554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Tpl/default/Index/overview.html",
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Tpl/default/Index/tree.html",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Tpl/default/Index/logiTechSoftwares.html",
+					"settings":
+					{
+						"buffer_size": 4739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3101,
+								3101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1085.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Lib/Action/ManageAction.class.php",
+					"settings":
+					{
+						"buffer_size": 8663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6067,
+								6067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1962.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Tpl/default/Manage/base_softwares_html.html",
+					"settings":
+					{
+						"buffer_size": 5240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Tpl/default/Manage/uploadSoftware.html",
+					"settings":
+					{
+						"buffer_size": 6561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3479,
+								3479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1477.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Tpl/default/Manage/logiTechSoftwares.html",
+					"settings":
+					{
+						"buffer_size": 5234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2130,
+								2130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 607.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Tpl/default/Manage/overview.html",
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Public/miniui/themes/icons.css",
+					"settings":
+					{
+						"buffer_size": 2312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Tpl/default/Manage/tree.html",
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Tpl/default/Manage/index.html",
+					"settings":
+					{
+						"buffer_size": 4383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1920,
+								1920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Lib/Action/IndexAction.class.php",
+					"settings":
+					{
+						"buffer_size": 4976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2965,
+								2965
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1741.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Tpl/default/Index/base_softwares_html.html",
+					"settings":
+					{
+						"buffer_size": 4745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Conf/config.php",
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/programs/erlang/zigbee_event_generator/src/zeg.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
